@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+*.log
+*.txt
+*.ttf
+out
+gen
+mesopotamia
+output
+*.csv
+*.xlsx
+crontab/python_task_crontab/logs/
