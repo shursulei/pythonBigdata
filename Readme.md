@@ -1,2 +1,2 @@
-bireport -- 报表工具
-framework -- 框架
+bireport -- 鎶ヨ〃宸ュ叿
+framework -- 妗嗘灦
