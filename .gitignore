@@ -10,4 +10,6 @@ mesopotamia
 output
 *.csv
 *.xlsx
+*.xls
 crontab/python_task_crontab/logs/
+*.jpg
