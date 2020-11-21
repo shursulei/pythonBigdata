@@ -10,9 +10,7 @@
 
 '''
 
-'''
-¼ÆËãÒıÇæ
-'''
+
 class Engine:
     def __init__(self, f_input, f_output):
         self.g = None

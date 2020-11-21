@@ -13,3 +13,4 @@ output
 *.xls
 crontab/python_task_crontab/logs/
 *.jpg
+prescription
